@@ -1,0 +1,5 @@
+nbsf-website/
+├── frontend/          (React.js)
+├── backend/           (Java Spring Boot)
+├── database/          (MySQL scripts)
+└── documentation/

@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+/Frontend (React.js)/node_modules/
+
+# Build directories
+/Frontend (React.js)/build/
+/Frontend (React.js)/dist/
+
+# Java/Maven/Spring Boot
+/backends/target/
+/backends/.mvn/
+/backends/mvnw
+/backends/mvnw.cmd
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
